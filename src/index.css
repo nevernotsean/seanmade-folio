@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "effra",sans-serif;
+}
+
+h1,h2 {
+  font-family: "effra",sans-serif;
+  font-family: "gibson",sans-serif;
+  font-family: "filson-soft",sans-serif;
+  text-transform: uppercase;
+}
+
+
+.layout {
+  padding: 10px;
+}
